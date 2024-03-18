@@ -1,2 +1,2 @@
 echo off
-jekyll build --source "g:\my drive\leah_site"
+jekyll build --source "g:\my drive\leah_site" --destination .\docs
