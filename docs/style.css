@@ -209,9 +209,11 @@ section.failure {
     }
 }
 
-#contact a {
-    font-size: 40px;
-    text-align: center;
+@media(min-width: 767px) {
+    #contact a {
+        font-size: 2em;
+        text-align: center;
+    }
 }
 
 #portfolio .portfolio-item {
