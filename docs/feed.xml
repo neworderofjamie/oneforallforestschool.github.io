@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
   <link href="https://github.com/jeromelachaud/freelancer-theme/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://github.com/jeromelachaud/freelancer-theme/" rel="alternate" type="text/html" />
-  <updated>2024-03-18T22:27:17+00:00</updated>
+  <updated>2024-03-19T19:55:58+00:00</updated>
   <id>https://github.com/jeromelachaud/freelancer-theme/</id>
 
   
@@ -40,7 +40,7 @@
   &lt;li&gt;October 4th - November 22nd&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Special After Work Summer Sessions!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Special After Work Summer Sessions!&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Mondays 5:30 - 7:30&lt;/li&gt;
@@ -198,7 +198,33 @@ you and the wonder of “play”. My favourite tree is an oak.&lt;/p&gt;
       <published>2014-07-16T00:00:00+01:00</published>
       <updated>2014-07-16T00:00:00+01:00</updated>
       <id>https://github.com/jeromelachaud/freelancer-theme/project-3</id>
-      <content type="html" xml:base="https://github.com/jeromelachaud/freelancer-theme/"></content>
+      <content type="html" xml:base="https://github.com/jeromelachaud/freelancer-theme/">&lt;h3 id=&quot;policies-and-procedures&quot;&gt;Policies and Procedures&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://1drv.ms/w/s!AqZeykDJpLJuggPZe6oG1m8wB6Y8?e=e1udXR&quot;&gt;One for All Forest School Handbook&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://1drv.ms/w/s!AqZeykDJpLJuggLyh3jxHH3CBv5Q?e=hV0hOh&quot;&gt;One for All Forest School Privacy Policy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://1drv.ms/w/s!AqZeykDJpLJughSyHgD_QQOR9b8j?e=y7qpJP&quot;&gt;One for All Forest School Equality, Diversity, and Inclusion Policy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://1drv.ms/w/s!AqZeykDJpLJughZvmMb45aio1Vy_?e=25GHwO&quot;&gt;One for All Forest School Safeguarding Policy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://1drv.ms/w/s!AqZeykDJpLJuggX06RTfPTLJWfv_?e=VTNOof&quot;&gt;Moulsecoomb Place Emergency Procedures&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://1drv.ms/w/s!AqZeykDJpLJughIsJ3eLPYTZoMZE?e=urfitJ&quot;&gt;Hodshrove Woods Emergency Procedures&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;risk-assessments&quot;&gt;Risk Assessments&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://1drv.ms/w/s!AqZeykDJpLJuggDXypekPbJO_ITk?e=4inKsD&quot;&gt;Moulsecoomb Place Site Risk Assessment&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://1drv.ms/w/s!AqZeykDJpLJuggEy3WWVI0z8-Nwn?e=1gBV34&quot;&gt;Working with Fire Risk Assessment&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://1drv.ms/w/s!AqZeykDJpLJugg4Ei5MDoZwE7x7X?e=y1YYlF&quot;&gt;Cooking Risk Assessment&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://1drv.ms/w/s!AqZeykDJpLJuggcFyuxuyeO0SXKJ?e=Pgz22Q&quot;&gt;Foraging Risk Assessment&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://1drv.ms/w/s!AqZeykDJpLJuggT1rQ2ys-XW7_hi?e=3gLR3n&quot;&gt;Using Saws Risk Assessment&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://1drv.ms/w/s!AqZeykDJpLJuggYomXujq-FSmWvH?e=PkrHSE&quot;&gt;Using Roopes Risk Assessment&lt;/a&gt;&lt;/p&gt;</content>
 
       
       
@@ -219,7 +245,7 @@ you and the wonder of “play”. My favourite tree is an oak.&lt;/p&gt;
       
 
       
-        <summary type="html"></summary>
+        <summary type="html">Policies and Procedures</summary>
       
 
       
@@ -227,8 +253,8 @@ you and the wonder of “play”. My favourite tree is an oak.&lt;/p&gt;
     </entry>
   
     <entry>
-      <title type="html">Feedback and Testamonials</title>
-      <link href="https://github.com/jeromelachaud/freelancer-theme/" rel="alternate" type="text/html" title="Feedback and Testamonials" />
+      <title type="html">Feedback</title>
+      <link href="https://github.com/jeromelachaud/freelancer-theme/" rel="alternate" type="text/html" title="Feedback" />
       <published>2014-07-15T00:00:00+01:00</published>
       <updated>2014-07-15T00:00:00+01:00</updated>
       <id>https://github.com/jeromelachaud/freelancer-theme/project-4</id>
