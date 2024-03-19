@@ -209,6 +209,11 @@ section.failure {
     }
 }
 
+#contact a {
+    font-size: 2.0em;
+    text-align: center;
+}
+
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
